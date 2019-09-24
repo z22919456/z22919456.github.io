@@ -1,0 +1,22 @@
+/* Add here all your css styles (customizations) */
+.revolution-mch-1:after,
+.bg-image-v1:before {
+    background-color: transparent !important;
+}
+
+.menu-icons-list {
+    padding-left: 15px;
+}
+
+.img-padding {
+    padding: 40px;
+    max-height: 50vh;
+}
+
+@media (max-width: 991px) {
+    .img-padding {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 10px;
+    }
+}
