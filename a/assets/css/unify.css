@@ -59,11 +59,11 @@ h1, h2, h3, h4, h5, h6 {
 ------------------------------------*/
 ::-moz-selection {
   color: #fff;
-  background-color: #72c02c; }
+  background-color: #C2AC97; }
 
 ::selection {
   color: #fff;
-  background-color: #72c02c; }
+  background-color: #C2AC97; }
 
 .g-bg-primary ::-moz-selection {
   color: #72c02c;
@@ -1153,7 +1153,7 @@ hr {
 .u-go-to-v1:hover, .u-go-to-v1:focus:hover {
   text-decoration: none;
   color: #fff;
-  background-color: #72c02c; }
+  background-color: #C2AC97; }
 
 .u-go-to-v1:focus {
   text-decoration: none;
